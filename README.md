@@ -1,8 +1,10 @@
 
 There is no threshold that decides a pandemic level.How ever if an outbreeak grows or dies out can be
 decided by R0.
+
 if R0 >1 → the disease spreads
 if R0<1 → the disease dies out
+
 R0 is the average number of people that one infected person will pass a disease to in a population where:
 1.No one is immune
 2. No interventions are in place (no vaccines, masks, distancing, etc.)
